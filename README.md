@@ -1,5 +1,6 @@
-# SecureDocs AI
 
+# SecureDocs AI
+CG4RQ9
 Offline, privacy-first document intelligence using Retrieval-Augmented Generation (RAG).
 
 ## Live Demo
